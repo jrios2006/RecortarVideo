@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Recortar clip de YouTube
+Comment=Recorta un fragmento usando yt-dlp sabiendo la duración y desde dónde empieza
+Exec=/home/jra/.local/bin/yt-clip.sh
+Icon-Name=video-x-generic
+Selection=none
+Extensions=any
